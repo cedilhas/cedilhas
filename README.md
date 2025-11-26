@@ -1,7 +1,7 @@
 ## Olá, Raone aqui
 📚 Desenvolvedor amante de tecnologías e conhecimentos.
 
-💡Criador de soluções para problemas de maneira ágil e rapida.
+💡Criador de soluções para problemas de maneira ágil e rápida.
 ## 📈 Github Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cedilhas&theme=radical&hide_border=true)](https://github.com/cedilhas)
 ## 💼 Competências
